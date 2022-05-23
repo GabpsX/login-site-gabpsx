@@ -248,6 +248,7 @@ img:hover {
     }
   }
 footer{
+  height: 70px;
     color: #0c0c0c;
     background-color: #f7f7f7;
 }
