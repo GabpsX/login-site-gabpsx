@@ -255,3 +255,10 @@ footer{
 .text-white_1 {
     color: rgba(0, 0, 0, 0.507);
 }
+@media(max-width: 420px){
+  footer {
+    height: 100px;
+    position: fixed;
+    bottom: 1px;
+  }
+}
